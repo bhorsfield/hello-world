@@ -1,3 +1,7 @@
+# hello-world readme-edits branch
+
+This is a branch of the hello-world repository.  It was created to help me learn how to make and commit changes to a project.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
